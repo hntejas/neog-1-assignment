@@ -1,4 +1,4 @@
-# neog-1-assignment
+# neog-1-assignment - The India Quiz
 
 We see a lot of tools using interactive CLI on a daily basis.
 This app is my way to just explore and build some hands-on interactive CLI.
